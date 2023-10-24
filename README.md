@@ -2,4 +2,4 @@
 # menu-App
 this is my first commit
 <br>
-name - Shivangi Dutta
+name - Shivangi Dutta (student)
